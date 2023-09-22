@@ -1,0 +1,2 @@
+# RadiationData_Platform-Server
+一款接收远程设备采集到的数据并储存，以供用户访问数据的后端项目
